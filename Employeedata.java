@@ -9,6 +9,7 @@ class Employeedata{
 	{
 		Employee e1 = new Employee();
 		Employee e2 = new Employee();
+		Employee e4 = new Employee();
 		e1.id = 407;
 		e1.name = "Venkata Naveen";
 		e1.salary = 100000;
