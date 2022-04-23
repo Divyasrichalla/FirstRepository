@@ -5,6 +5,7 @@ String name;
 float salary;
 }
 class Employeedata{
+//sample comment
 	public static void main(String x[])
 	{
 		Employee e1 = new Employee();
